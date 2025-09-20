@@ -40,7 +40,6 @@ Medium Clone is a feature-rich, production-ready blogging application inspired b
 
 ## ✨ Core Features
 
-This isn't just a simple CRUD application. Inkwell is engineered with the features and robustness expected of a modern web platform.
 
 * **Full User Authentication:** Secure sign-up and sign-in with email/password and OAuth (Google), powered by Supabase Auth.
 * **Rich Text Editor:** A beautiful and intuitive Tiptap-based editor for writing posts, complete with formatting options and support for syntax-highlighted code blocks.
